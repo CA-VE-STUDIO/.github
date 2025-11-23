@@ -1,4 +1,4 @@
-# CA::VE Studio
+![Logo](https://github.com/CA-VE-STUDIO/Media/raw/main/Logos/2025/CA__VE_Big_Logo_v2.png)
 
 <!--
 
